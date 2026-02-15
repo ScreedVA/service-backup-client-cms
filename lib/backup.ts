@@ -25,18 +25,14 @@ const backupClients: BackupClient[] = [
   {
     clientName: "perfometrics",
     domain: "perfometrics.co",
-    // collectionSlugs: ["service", "articles", "expertise"],
-    // globalSlugs: ["shared-section", "home", "about", "contact", "impressum"],
-    collectionSlugs: ["service"],
-    globalSlugs: ["shared-section"],
+    collectionSlugs: ["service", "articles", "expertise"],
+    globalSlugs: ["shared-section", "home", "about", "contact", "impressum"],
   },
   {
     clientName: "quantumelektro",
     domain: "quantumelektro.de",
-    // collectionSlugs: ["services", "projects"],
-    // globalSlugs: ["home", "contact", "aboutUs"],
-    collectionSlugs: ["services"],
-    globalSlugs: ["home"],
+    collectionSlugs: ["services", "projects"],
+    globalSlugs: ["home", "contact", "aboutUs"],
   },
 ];
 
