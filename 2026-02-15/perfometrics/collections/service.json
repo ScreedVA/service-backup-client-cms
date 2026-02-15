@@ -1,0 +1,1033 @@
+{
+  "data": {
+    "docs": [
+      {
+        "createdAt": "2026-01-31T20:03:14.906Z",
+        "updatedAt": "2026-01-31T20:06:22.800Z",
+        "slug": "analytics-reporting",
+        "hero": {
+          "sectionSubtitle": "Analytics & Reporting",
+          "sectionTitle": "Gain full visibility into your marketing performance and make smarter decisions faster.",
+          "sectionDescription": "Connect platforms, centralize insights, and visualize the data that defines your growth.",
+          "icon": "PieChart"
+        },
+        "openingInsight": {
+          "text": "Without connected analytics, you’re blind to what drives performance. Do you have clarity or just numbers?"
+        },
+        "features": {
+          "sectionTitle": "NAVIGATE THE NEW SEARCH ERA WITH CONFIDENCE",
+          "sectionDescription": "Search and digital marketing changes every day. Is your brand keeping pace? Perfometrics gives you the tools and expertise to lead with precision and agility.",
+          "list": [
+            {
+              "sectionTitle": "Unified Data Dashboards",
+              "sectionDescription": "Integrate marketing, sales, and CRM metrics into one centralized view.",
+              "icon": "Activity",
+              "id": "697e60027afb549494546db7"
+            },
+            {
+              "sectionTitle": "Goal Tracking & Attribution",
+              "sectionDescription": "Measure every conversion path accurately to understand ROI sources.",
+              "icon": "Activity",
+              "id": "697e60027afb549494546db8"
+            },
+            {
+              "sectionTitle": "Real-Time Insights",
+              "sectionDescription": "Access live dashboards that highlight performance anomalies instantly.",
+              "icon": "Activity",
+              "id": "697e60027afb549494546db9"
+            },
+            {
+              "sectionTitle": "Custom Reporting",
+              "sectionDescription": "Deliver visualized data tailored to business goals and executive needs.",
+              "icon": "Activity",
+              "id": "697e60027afb549494546dba"
+            },
+            {
+              "sectionTitle": "Performance Governance",
+              "sectionDescription": "Ensure ongoing accuracy with data validation and standardized metrics.",
+              "icon": "Activity",
+              "id": "697e60027afb549494546dbb"
+            }
+          ]
+        },
+        "impactSummary": {
+          "text": "Analytics provide clarity, allowing data-driven decisions that scale growth effectively."
+        },
+        "clientJourney": {
+          "steps": [
+            {
+              "stepTitle": "CONNECT",
+              "stepTitleAlt": "CONNECTION",
+              "stepDescription": "Integrate your platforms.",
+              "withoutService": {
+                "sectionDescription": "Your data is scattered, siloed, and difficult to compare across tools."
+              },
+              "withService": {
+                "sectionDescription": "You unify insights across every channel, building a complete performance picture."
+              },
+              "id": "697e60027afb549494546dbc"
+            },
+            {
+              "stepTitle": "CLEAN",
+              "stepTitleAlt": "DATA VALIDATION",
+              "stepDescription": "Validate your data accuracy.",
+              "withoutService": {
+                "sectionDescription": "You base strategy on corrupted data, risking false assumptions."
+              },
+              "withService": {
+                "sectionDescription": "You make confident decisions grounded in verified, accurate data."
+              },
+              "id": "697e60027afb549494546dbd"
+            },
+            {
+              "stepTitle": "VISUALIZE",
+              "stepTitleAlt": "VISUALIZATION",
+              "stepDescription": "See what matters, instantly.",
+              "withoutService": {
+                "sectionDescription": "Your reports overwhelm — raw data hides the insights that matter most."
+              },
+              "withService": {
+                "sectionDescription": "You interpret results instantly, spotting performance shifts as they happen."
+              },
+              "id": "697e60027afb549494546dbe"
+            },
+            {
+              "stepTitle": "MEASURE",
+              "stepTitleAlt": "PERFORMANCE TRACKING",
+              "stepDescription": "Track KPIs and scale growth.",
+              "withoutService": {
+                "sectionDescription": "You can’t quantify growth or justify marketing investments accurately."
+              },
+              "withService": {
+                "sectionDescription": "You measure precisely, proving ROI and uncovering growth opportunities faster."
+              },
+              "id": "697e60027afb549494546dbf"
+            }
+          ]
+        },
+        "pricingTable": {
+          "sectionDescription": "Clear, actionable analytics reporting that transforms raw data into insights. Monitor performance, uncover trends, and make confident decisions using accurate dashboards and custom reports.",
+          "price": {
+            "starter": "$499 / month",
+            "standard": "$999 / month",
+            "enterprise": "Custom pricing"
+          },
+          "features": [
+            {
+              "name": "Custom dashboards",
+              "starter": {
+                "enabled": true,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": ""
+              },
+              "id": "697e60027afb549494546dc0"
+            },
+            {
+              "name": "Data source integrations",
+              "starter": {
+                "enabled": false,
+                "text": "Up to 2 sources"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Up to 5 sources"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Unlimited sources"
+              },
+              "id": "697e60027afb549494546dc1"
+            },
+            {
+              "name": "Monthly insights report",
+              "starter": {
+                "enabled": true,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Executive summary"
+              },
+              "id": "697e60027afb549494546dc2"
+            },
+            {
+              "name": "Real-time data refresh",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Hourly refresh"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Live data"
+              },
+              "id": "697e60027afb549494546dc3"
+            },
+            {
+              "name": "Data quality monitoring",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Advanced alerts"
+              },
+              "id": "697e60027afb549494546dc4"
+            }
+          ]
+        },
+        "metaData": {
+          "image": "697e5fc106a404383ea40144",
+          "title": "Analytics & Reporting",
+          "description": "Gain clarity with unified dashboards, real-time insights, and performance tracking."
+        },
+        "id": "697e6002339b13e17d9ee1e9"
+      },
+      {
+        "createdAt": "2026-01-31T20:03:12.789Z",
+        "updatedAt": "2026-01-31T20:06:21.245Z",
+        "slug": "conversion-rate-optimization",
+        "hero": {
+          "sectionSubtitle": "Conversion Rate Optimization",
+          "sectionTitle": "Turn more visitors into customers through data-backed design and testing.",
+          "sectionDescription": "Optimize the user journey with data-driven testing and behavioral insight that turn traffic into tangible growth.",
+          "icon": "Funnel"
+        },
+        "openingInsight": {
+          "text": "Without structured experimentation, you’re guessing what drives conversions. Are your users completing the journey or getting lost along the way?"
+        },
+        "features": {
+          "sectionTitle": "NAVIGATE THE NEW SEARCH ERA WITH CONFIDENCE",
+          "sectionDescription": "Search and digital marketing changes every day. Is your brand keeping pace? Perfometrics gives you the tools and expertise to lead with precision and agility.",
+          "list": [
+            {
+              "sectionTitle": "UX Diagnostics",
+              "sectionDescription": "Identify friction points through analytics, heatmaps, and behavioral tracking.",
+              "icon": "Activity",
+              "id": "697e60007afb549494546da9"
+            },
+            {
+              "sectionTitle": "Split Testing Frameworks",
+              "sectionDescription": "Test layout, copy, and calls-to-action to find high-performing variations.",
+              "icon": "Activity",
+              "id": "697e60007afb549494546daa"
+            },
+            {
+              "sectionTitle": "Data-Led Design",
+              "sectionDescription": "Design updates based on empirical performance data, not assumption.",
+              "icon": "Activity",
+              "id": "697e60007afb549494546dab"
+            },
+            {
+              "sectionTitle": "Journey Mapping",
+              "sectionDescription": "Visualize the conversion funnel to prioritize improvements with the highest ROI.",
+              "icon": "Activity",
+              "id": "697e60007afb549494546dac"
+            },
+            {
+              "sectionTitle": "Continuous Optimization",
+              "sectionDescription": "Establish an always-testing culture to ensure performance never plateaus.",
+              "icon": "Activity",
+              "id": "697e60007afb549494546dad"
+            }
+          ]
+        },
+        "impactSummary": {
+          "text": "CRO ensures every interaction drives measurable growth and continuously improves the user journey."
+        },
+        "clientJourney": {
+          "steps": [
+            {
+              "stepTitle": "TEST",
+              "stepTitleAlt": "TESTING",
+              "stepDescription": "Experiment and identify what works.",
+              "withoutService": {
+                "sectionDescription": "You rely on intuition, making design and copy decisions without validation."
+              },
+              "withService": {
+                "sectionDescription": "You implement only proven changes that deliver measurable uplifts in conversion."
+              },
+              "id": "697e60007afb549494546dae"
+            },
+            {
+              "stepTitle": "FIX",
+              "stepTitleAlt": "FIXING ISSUES",
+              "stepDescription": "Resolve conversion barriers.",
+              "withoutService": {
+                "sectionDescription": "You keep losing users to broken flows, confusing navigation, and abandoned forms."
+              },
+              "withService": {
+                "sectionDescription": "Your site becomes frictionless, intuitive, and built for conversion."
+              },
+              "id": "697e60007afb549494546daf"
+            },
+            {
+              "stepTitle": "RESPOND",
+              "stepTitleAlt": "BEHAVIORAL RESPONSE",
+              "stepDescription": "Adapt to behavioral trends.",
+              "withoutService": {
+                "sectionDescription": "You fail to evolve with user habits, missing emerging opportunities."
+              },
+              "withService": {
+                "sectionDescription": "You react instantly to behavior shifts, keeping your site aligned with user expectations."
+              },
+              "id": "697e60007afb549494546db0"
+            },
+            {
+              "stepTitle": "SCALE",
+              "stepTitleAlt": "SCALING STRATEGY",
+              "stepDescription": "Apply winning strategies across platforms.",
+              "withoutService": {
+                "sectionDescription": "Your results stay local — optimizations never expand to broader performance."
+              },
+              "withService": {
+                "sectionDescription": "You turn isolated wins into organization-wide performance growth."
+              },
+              "id": "697e60007afb549494546db1"
+            }
+          ]
+        },
+        "pricingTable": {
+          "sectionDescription": "Increase conversions by optimizing user journeys, validating ideas through testing, and removing friction across your website and digital funnels.",
+          "price": {
+            "starter": "$699 / month",
+            "standard": "$1,299 / month",
+            "enterprise": "Custom pricing"
+          },
+          "features": [
+            {
+              "name": "User behavior analysis",
+              "starter": {
+                "enabled": true,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": ""
+              },
+              "id": "697e60007afb549494546db2"
+            },
+            {
+              "name": "Heatmaps & recordings",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Advanced tools"
+              },
+              "id": "697e60007afb549494546db3"
+            },
+            {
+              "name": "A/B testing",
+              "starter": {
+                "enabled": false,
+                "text": "1 test / month"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Up to 3 tests"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Unlimited tests"
+              },
+              "id": "697e60007afb549494546db4"
+            },
+            {
+              "name": "Conversion roadmap",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Quarterly planning"
+              },
+              "id": "697e60007afb549494546db5"
+            },
+            {
+              "name": "Experiment reporting",
+              "starter": {
+                "enabled": true,
+                "text": "Basic report"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Detailed report"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Custom insights"
+              },
+              "id": "697e60007afb549494546db6"
+            }
+          ]
+        },
+        "metaData": {
+          "image": "697e5fc106a404383ea40144",
+          "title": "Conversion Optimization",
+          "description": "Turn more visitors into customers using testing, UX insights, and data-backed design."
+        },
+        "id": "697e6000339b13e17d9ee1d7"
+      },
+      {
+        "createdAt": "2026-01-31T20:03:10.704Z",
+        "updatedAt": "2026-01-31T20:06:15.422Z",
+        "slug": "content-marketing",
+        "hero": {
+          "sectionSubtitle": "Content Marketing",
+          "sectionTitle": "Create content that builds trust, ranks higher, and drives sustained engagement.",
+          "sectionDescription": "Strategically crafted content that attracts, educates, and converts — built for visibility and measurable engagement.",
+          "icon": "MessagesSquare"
+        },
+        "openingInsight": {
+          "text": "Without strategic content, your message gets lost in the noise. Are you shaping conversations or chasing trends?"
+        },
+        "features": {
+          "sectionTitle": "NAVIGATE THE NEW SEARCH ERA WITH CONFIDENCE",
+          "sectionDescription": "Search and digital marketing changes every day. Is your brand keeping pace? Perfometrics gives you the tools and expertise to lead with precision and agility.",
+          "list": [
+            {
+              "sectionTitle": "Content Strategy",
+              "sectionDescription": "Develop editorial frameworks that align business goals with audience intent.",
+              "icon": "Activity",
+              "id": "697e5ffe7afb549494546d9b"
+            },
+            {
+              "sectionTitle": "SEO Alignment",
+              "sectionDescription": "Integrate search-driven data to make every piece discoverable and keyword-resilient.",
+              "icon": "Activity",
+              "id": "697e5ffe7afb549494546d9c"
+            },
+            {
+              "sectionTitle": "Storytelling Precision",
+              "sectionDescription": "Craft narratives that communicate value and differentiate your brand authentically.",
+              "icon": "Activity",
+              "id": "697e5ffe7afb549494546d9d"
+            },
+            {
+              "sectionTitle": "Distribution & Promotion",
+              "sectionDescription": "Deliver content across owned, earned, and paid channels to maximize reach and ROI.",
+              "icon": "Activity",
+              "id": "697e5ffe7afb549494546d9e"
+            },
+            {
+              "sectionTitle": "Performance Measurement",
+              "sectionDescription": "Use engagement analytics to understand what resonates and continuously improve strategy.",
+              "icon": "Activity",
+              "id": "697e5ffe7afb549494546d9f"
+            }
+          ]
+        },
+        "impactSummary": {
+          "text": "Strategic content drives trust, authority, and measurable engagement across channels."
+        },
+        "clientJourney": {
+          "steps": [
+            {
+              "stepTitle": "RESEARCH",
+              "stepTitleAlt": "CONTENT RESEARCH",
+              "stepDescription": "Understand audience intent.",
+              "withoutService": {
+                "sectionDescription": "You’re creating content in isolation — disconnected from what your audience wants."
+              },
+              "withService": {
+                "sectionDescription": "Your content is built on insight, not assumption, targeting proven audience needs."
+              },
+              "id": "697e5ffe7afb549494546da0"
+            },
+            {
+              "stepTitle": "CREATE",
+              "stepTitleAlt": "CONTENT CREATION STRATEGY",
+              "stepDescription": "Develop content with purpose.",
+              "withoutService": {
+                "sectionDescription": "You produce content inconsistently, lacking structure or clear brand messaging."
+              },
+              "withService": {
+                "sectionDescription": "Every piece of content serves a clear purpose — to engage, inform, and convert."
+              },
+              "id": "697e5ffe7afb549494546da1"
+            },
+            {
+              "stepTitle": "AMPLIFY",
+              "stepTitleAlt": "DISTRIBUTION",
+              "stepDescription": "Distribute intelligently.",
+              "withoutService": {
+                "sectionDescription": "Your best work goes unseen — limited reach, limited ROI."
+              },
+              "withService": {
+                "sectionDescription": "Your content reaches high-value audiences across channels that drive engagement."
+              },
+              "id": "697e5ffe7afb549494546da2"
+            },
+            {
+              "stepTitle": "EVALUATE",
+              "stepTitleAlt": "PERFORMANCE MEASUREMENT",
+              "stepDescription": "Measure impact, refine results.",
+              "withoutService": {
+                "sectionDescription": "You can’t tell which content performs, wasting effort on what doesn’t convert."
+              },
+              "withService": {
+                "sectionDescription": "You gain clear visibility on what resonates — optimizing future content for impact."
+              },
+              "id": "697e5ffe7afb549494546da3"
+            }
+          ]
+        },
+        "pricingTable": {
+          "sectionDescription": "Strategic content marketing that attracts, educates, and converts your audience through consistent, high-quality messaging.",
+          "price": {
+            "starter": "$599 / month",
+            "standard": "$1,099 / month",
+            "enterprise": "Custom pricing"
+          },
+          "features": [
+            {
+              "name": "Content strategy",
+              "starter": {
+                "enabled": true,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Full funnel focus"
+              },
+              "id": "697e5ffe7afb549494546da4"
+            },
+            {
+              "name": "Monthly content pieces",
+              "starter": {
+                "enabled": true,
+                "text": "2 pieces"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "4 pieces"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "8+ pieces"
+              },
+              "id": "697e5ffe7afb549494546da5"
+            },
+            {
+              "name": "Editorial calendar",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Advanced planning"
+              },
+              "id": "697e5ffe7afb549494546da6"
+            },
+            {
+              "name": "SEO optimization",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Advanced SEO"
+              },
+              "id": "697e5ffe7afb549494546da7"
+            },
+            {
+              "name": "Performance tracking",
+              "starter": {
+                "enabled": true,
+                "text": "Basic metrics"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Detailed metrics"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Custom KPIs"
+              },
+              "id": "697e5ffe7afb549494546da8"
+            }
+          ]
+        },
+        "metaData": {
+          "image": "697e5fc106a404383ea40144",
+          "title": "Content Marketing",
+          "description": "Build trust and authority with strategic content that ranks, engages, and converts."
+        },
+        "id": "697e5ffe339b13e17d9ee1c5"
+      },
+      {
+        "createdAt": "2026-01-31T20:03:08.761Z",
+        "updatedAt": "2026-01-31T20:06:13.923Z",
+        "slug": "paid-media-management",
+        "hero": {
+          "sectionSubtitle": "Paid Media Management",
+          "sectionTitle": "Maximize your ad spend and generate measurable returns from every campaign.",
+          "sectionDescription": "Performance-led campaigns built on data, creative intelligence, and continuous optimization.",
+          "icon": "Megaphone"
+        },
+        "openingInsight": {
+          "text": "Without a unified paid media strategy, ad spend becomes guesswork. Are your campaigns scaling efficiently or just spending faster?"
+        },
+        "features": {
+          "sectionTitle": "NAVIGATE THE NEW SEARCH ERA WITH CONFIDENCE",
+          "sectionDescription": "Search and digital marketing changes every day. Is your brand keeping pace? Perfometrics gives you the tools and expertise to lead with precision and agility.",
+          "list": [
+            {
+              "sectionTitle": "Cross-Channel Strategy",
+              "sectionDescription": "Integrate campaigns across Google, Meta, LinkedIn, and programmatic platforms for cohesive impact.",
+              "icon": "Activity",
+              "id": "697e5ffc7afb549494546d8d"
+            },
+            {
+              "sectionTitle": "Audience Intelligence",
+              "sectionDescription": "Target the right users at the right stage of intent using advanced segmentation and behavioral data.",
+              "icon": "Activity",
+              "id": "697e5ffc7afb549494546d8e"
+            },
+            {
+              "sectionTitle": "Creative Performance",
+              "sectionDescription": "Test ad variations rapidly to identify high-impact creative and messaging combinations.",
+              "icon": "Activity",
+              "id": "697e5ffc7afb549494546d8f"
+            },
+            {
+              "sectionTitle": "Bid Optimization",
+              "sectionDescription": "Leverage data feedback loops to automatically adjust bids for maximum efficiency and reach.",
+              "icon": "Activity",
+              "id": "697e5ffc7afb549494546d90"
+            },
+            {
+              "sectionTitle": "Attribution Clarity",
+              "sectionDescription": "Measure cross-channel influence and know exactly which ads drive real conversions.",
+              "icon": "Activity",
+              "id": "697e5ffc7afb549494546d91"
+            }
+          ]
+        },
+        "impactSummary": {
+          "text": "With a holistic paid media strategy, every dollar works smarter, campaigns scale efficiently, and ROI becomes predictable."
+        },
+        "clientJourney": {
+          "steps": [
+            {
+              "stepTitle": "PLAN",
+              "stepTitleAlt": "STRATEGIC PLANNING",
+              "stepDescription": "Define your spend, audience, and KPIs.",
+              "withoutService": {
+                "sectionDescription": "Your ad spend lacks direction — each platform operates in isolation."
+              },
+              "withService": {
+                "sectionDescription": "Every campaign is aligned with clear objectives and measurable ROI."
+              },
+              "id": "697e5ffc7afb549494546d92"
+            },
+            {
+              "stepTitle": "LAUNCH",
+              "stepTitleAlt": "COORDINATED LAUNCH",
+              "stepDescription": "Deploy campaigns with precision.",
+              "withoutService": {
+                "sectionDescription": "Campaigns go live inconsistently, causing tracking errors and wasted impressions."
+              },
+              "withService": {
+                "sectionDescription": "Campaigns go live seamlessly, integrated with live analytics for immediate optimization."
+              },
+              "id": "697e5ffc7afb549494546d93"
+            },
+            {
+              "stepTitle": "OPTIMIZE",
+              "stepTitleAlt": "ONGOING OPTIMIZATION",
+              "stepDescription": "Eliminate waste and scale results.",
+              "withoutService": {
+                "sectionDescription": "You leave money on the table — overspending on underperforming audiences."
+              },
+              "withService": {
+                "sectionDescription": "Every click and impression is refined for maximum return."
+              },
+              "id": "697e5ffc7afb549494546d94"
+            },
+            {
+              "stepTitle": "REPORT",
+              "stepTitleAlt": "REPORTING CLARITY",
+              "stepDescription": "See the full impact clearly.",
+              "withoutService": {
+                "sectionDescription": "You can’t attribute conversions accurately — decisions are made in the dark."
+              },
+              "withService": {
+                "sectionDescription": "You get full visibility on performance, cost, and growth contribution per channel."
+              },
+              "id": "697e5ffc7afb549494546d95"
+            }
+          ]
+        },
+        "pricingTable": {
+          "sectionDescription": "ROI-focused paid media management across search and social platforms, designed to scale growth and maximize ad performance.",
+          "price": {
+            "starter": "$799 / month",
+            "standard": "$1,499 / month",
+            "enterprise": "Percentage of ad spend"
+          },
+          "features": [
+            {
+              "name": "Campaign setup",
+              "starter": {
+                "enabled": true,
+                "text": "Single platform"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Multi-platform"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Global campaigns"
+              },
+              "id": "697e5ffc7afb549494546d96"
+            },
+            {
+              "name": "Audience targeting",
+              "starter": {
+                "enabled": true,
+                "text": "Core audiences"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Advanced targeting"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Custom segments"
+              },
+              "id": "697e5ffc7afb549494546d97"
+            },
+            {
+              "name": "Ad creative optimization",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Dedicated testing"
+              },
+              "id": "697e5ffc7afb549494546d98"
+            },
+            {
+              "name": "Bid & budget management",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Automated rules"
+              },
+              "id": "697e5ffc7afb549494546d99"
+            },
+            {
+              "name": "Performance reporting",
+              "starter": {
+                "enabled": true,
+                "text": "Monthly report"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Weekly report"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Custom reporting"
+              },
+              "id": "697e5ffc7afb549494546d9a"
+            }
+          ]
+        },
+        "metaData": {
+          "image": "697e5fc106a404383ea40144",
+          "title": "Paid Media Management",
+          "description": "Maximize ad spend with data-driven paid campaigns across search and social platforms."
+        },
+        "id": "697e5ffc339b13e17d9ee1b3"
+      },
+      {
+        "createdAt": "2026-01-31T20:03:06.657Z",
+        "updatedAt": "2026-01-31T20:06:12.373Z",
+        "slug": "seo-optimization",
+        "hero": {
+          "sectionSubtitle": "SEO Optimization",
+          "sectionTitle": "Measure. Optimize. Dominate. Turn Search Data into Growth",
+          "sectionDescription": "Increase your search visibility and attract qualified traffic that converts.",
+          "icon": "ScanSearch"
+        },
+        "openingInsight": {
+          "text": "Without a connected SEO strategy, visibility becomes unpredictable. Are you showing up when it matters most, or getting buried by smarter competitors?"
+        },
+        "features": {
+          "sectionTitle": "NAVIGATE THE NEW SEARCH ERA WITH CONFIDENCE",
+          "sectionDescription": "Search and digital marketing changes every day. Is your brand keeping pace? Perfometrics gives you the tools and expertise to lead with precision and agility.",
+          "list": [
+            {
+              "sectionTitle": "Technical Foundation",
+              "sectionDescription": "Audit and optimize your site architecture, crawl efficiency, and metadata to ensure search engines can read, rank, and reward your content.",
+              "icon": "Activity",
+              "id": "697e5ffa7afb549494546d7e"
+            },
+            {
+              "sectionTitle": "Content Engineering",
+              "sectionDescription": "Build topical authority with structured content strategies that align user intent with measurable search outcomes.",
+              "icon": "Activity",
+              "id": "697e5ffa7afb549494546d7f"
+            },
+            {
+              "sectionTitle": "Performance Tracking",
+              "sectionDescription": "Integrate keyword analytics, ranking dashboards, and engagement metrics to continuously validate SEO impact.",
+              "icon": "Activity",
+              "id": "697e5ffa7afb549494546d80"
+            },
+            {
+              "sectionTitle": "On-Page Precision",
+              "sectionDescription": "Refine headings, schema, and internal linking for maximum discoverability across search engines and voice platforms.",
+              "icon": "Activity",
+              "id": "697e5ffa7afb549494546d81"
+            },
+            {
+              "sectionTitle": "Link Growth Strategy",
+              "sectionDescription": "Attract high-authority backlinks through data-driven outreach, improving credibility and organic reach.",
+              "icon": "Activity",
+              "id": "697e5ffa7afb549494546d82"
+            }
+          ]
+        },
+        "impactSummary": {
+          "text": "Organic visibility isn’t just about rankings — it’s about predictability. When your SEO foundation is engineered for performance, every update compounds growth instead of resetting it. The result? Sustainable visibility, consistent traffic, and measurable authority over time."
+        },
+        "clientJourney": {
+          "steps": [
+            {
+              "stepTitle": "AUDIT",
+              "stepTitleAlt": "SEO AUDIT",
+              "stepDescription": "Expose the gaps limiting your visibility.",
+              "withoutService": {
+                "sectionDescription": "You’re unaware of technical issues holding back your rankings and wasting crawl budget."
+              },
+              "withService": {
+                "sectionDescription": "You gain a clear roadmap to fix performance gaps and improve organic visibility."
+              },
+              "id": "697e5ffa7afb549494546d83"
+            },
+            {
+              "stepTitle": "OPTIMIZE",
+              "stepTitleAlt": "SEO OPTIMIZATION",
+              "stepDescription": "Fix and fortify your foundation.",
+              "withoutService": {
+                "sectionDescription": "You implement changes blindly, risking inconsistent rankings and wasted effort."
+              },
+              "withService": {
+                "sectionDescription": "You implement strategic fixes that improve performance across every search signal."
+              },
+              "id": "697e5ffa7afb549494546d84"
+            },
+            {
+              "stepTitle": "DEPLOY",
+              "stepTitleAlt": "DEPLOYMENT CONTROL",
+              "stepDescription": "Roll out improvements with precision.",
+              "withoutService": {
+                "sectionDescription": "You push updates without understanding their impact on rankings and traffic."
+              },
+              "withService": {
+                "sectionDescription": "You launch confidently, backed by data-driven testing and validated outcomes."
+              },
+              "id": "697e5ffa7afb549494546d85"
+            },
+            {
+              "stepTitle": "SCALE",
+              "stepTitleAlt": "SEO SCALING",
+              "stepDescription": "Expand visibility sustainably.",
+              "withoutService": {
+                "sectionDescription": "Growth stagnates as efforts fail to replicate across multiple markets or pages."
+              },
+              "withService": {
+                "sectionDescription": "You compound results by expanding high-performing strategies across your ecosystem."
+              },
+              "id": "697e5ffa7afb549494546d86"
+            },
+            {
+              "stepTitle": "MEASURE",
+              "stepTitleAlt": "SEO MEASUREMENT",
+              "stepDescription": "Track, adapt, and evolve performance.",
+              "withoutService": {
+                "sectionDescription": "You can’t prove what’s working — insights are scattered and unclear."
+              },
+              "withService": {
+                "sectionDescription": "You have clarity on what drives growth, with constant optimization through data."
+              },
+              "id": "697e5ffa7afb549494546d87"
+            }
+          ]
+        },
+        "pricingTable": {
+          "sectionDescription": "End-to-end SEO optimization to improve rankings, increase organic visibility, and drive high-intent traffic.",
+          "price": {
+            "starter": "$649 / month",
+            "standard": "$1,199 / month",
+            "enterprise": "Custom pricing"
+          },
+          "features": [
+            {
+              "name": "Technical SEO audit",
+              "starter": {
+                "enabled": true,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": ""
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Ongoing audits"
+              },
+              "id": "697e5ffa7afb549494546d88"
+            },
+            {
+              "name": "Keyword research",
+              "starter": {
+                "enabled": true,
+                "text": "Up to 10 keywords"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Up to 25 keywords"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Unlimited keywords"
+              },
+              "id": "697e5ffa7afb549494546d89"
+            },
+            {
+              "name": "On-page optimization",
+              "starter": {
+                "enabled": true,
+                "text": "Core pages"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "All key pages"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Full site"
+              },
+              "id": "697e5ffa7afb549494546d8a"
+            },
+            {
+              "name": "Link building",
+              "starter": {
+                "enabled": false,
+                "text": ""
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Basic outreach"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Advanced outreach"
+              },
+              "id": "697e5ffa7afb549494546d8b"
+            },
+            {
+              "name": "SEO performance reporting",
+              "starter": {
+                "enabled": true,
+                "text": "Monthly report"
+              },
+              "standard": {
+                "enabled": true,
+                "text": "Bi-weekly report"
+              },
+              "enterprise": {
+                "enabled": true,
+                "text": "Custom reporting"
+              },
+              "id": "697e5ffa7afb549494546d8c"
+            }
+          ]
+        },
+        "metaData": {
+          "image": "697e5fc106a404383ea40144",
+          "title": "SEO Optimization",
+          "description": "Increase organic visibility with technical SEO, content strategy, and performance tracking."
+        },
+        "id": "697e5ffa339b13e17d9ee1a1"
+      }
+    ],
+    "totalDocs": 5,
+    "limit": 10,
+    "totalPages": 1,
+    "page": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  },
+  "timestamp": "2026-02-15T16:03:38.791Z"
+}

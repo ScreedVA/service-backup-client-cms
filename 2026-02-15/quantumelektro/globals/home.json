@@ -1,0 +1,87 @@
+{
+  "data": {
+    "createdAt": "2025-10-28T08:57:24.877Z",
+    "updatedAt": "2025-11-15T13:18:58.731Z",
+    "globalType": "home",
+    "hero": {
+      "sectionTitle": "QUANTUM ELEKTRO",
+      "sectionDescription": "Mit zuverlässigen, umweltfreundlichen Elektroinstallationen die Zukunft gestalten – von Privathaushalten bis hin zur Industrie liefert Quantum Elektro sichere, nachhaltige und zukunftsfähige Lösungen, denen Sie vertrauen können.",
+      "video": "69187d4573c6fbd4dbf076eb",
+      "ctaButtons": []
+    },
+    "solutions": {
+      "sectionTitle": "Unsere Kerndienstleistungen",
+      "sectionDescription": "Wir bieten jedem Kunden maßgeschneiderte Elektrotechnik-Kompetenz – egal, ob es sich um eine Smart-Home-Modernisierung, eine gewerbliche Ausstattung oder eine industrielle Stromversorgungslösung handelt. Unser Fokus liegt stets auf Sicherheit, Effizienz und Nachhaltigkeit."
+    },
+    "portfolio": {
+      "sectionTitle": "Unsere aktuellen Projekte",
+      "sectionDescription": "Jedes Projekt, das wir realisieren, basiert auf Vertrauen, Präzision und Nachhaltigkeit. Hier sehen Sie, wie wir Kunden aus den Bereichen Wohnen, Gewerbe und Industrie unterstützt haben."
+    },
+    "workflow": {
+      "sectionTitle": "Von der Vision zur Umsetzung – unser Prozess leicht gemacht",
+      "sectionDescription": "Wir vereinfachen komplexe Elektroprojekte durch einen klaren, schrittweisen Prozess, der Qualität, Transparenz und termingerechte Lieferung gewährleistet.",
+      "steps": [
+        {
+          "stepTitle": "Besichtigung vor ort",
+          "stepDescription": "Wir beginnen mit einer gründlichen Inspektion, um Ihre Bedürfnisse und Ihren Raum zu verstehen.",
+          "id": "69187dc2dbb13f54b405c90f"
+        },
+        {
+          "stepTitle": "Planung und Design",
+          "stepDescription": "Professionelle Planung und modernes Design bilden die Grundlage für zuverlässige und energieeffiziente Lösungen",
+          "id": "69187dc2dbb13f54b405c910"
+        },
+        {
+          "stepTitle": "Angebot",
+          "stepDescription": "Transparente Preise ohne versteckte Kosten.",
+          "id": "69187dc2dbb13f54b405c911"
+        },
+        {
+          "stepTitle": "Installation",
+          "stepDescription": "Professionelle Ausführung durch zertifizierte Elektriker.",
+          "id": "69187dc2dbb13f54b405c912"
+        }
+      ]
+    },
+    "testimonials": {
+      "sectionTitle": "Was unsere Kunden sagen",
+      "sectionDescription": "Wir sind fest entschlossen, Ergebnisse zu liefern, die die Erwartungen übertreffen. Hier erfahren Sie, was unsere Kunden über die Zusammenarbeit mit Quantum Elektro sagen.",
+      "testimonialEntries": [
+        {
+          "authorName": "Anna Müller",
+          "authorPosition": "Hausbesitzer",
+          "authorLocation": "Munich",
+          "quoteHeading": "Professionell, zuverlässig und umweltfreundlich – alles, was wir brauchten.",
+          "quoteText": "Quantum Elektro hat unsere Heim-EV-Ladestation reibungslos installiert. Sie haben uns durch jeden Schritt begleitet, und das Ergebnis ist nicht nur praktisch, sondern auch zukunftssicher. Sehr empfehlenswert!",
+          "id": "69187dc2dbb13f54b405c913"
+        },
+        {
+          "authorName": "Laura Schmidt",
+          "authorPosition": "Geschäftsinhaberin",
+          "authorLocation": "Berlin",
+          "quoteHeading": "Schnell, effizient und absolut kompetent – unsere erste Wahl für Geschäftsinstallationen.",
+          "quoteText": "Quantum Elektro hat die komplette Bürobeleuchtung und Sicherheitsinstallation in unserem Laden umgesetzt. Die Kommunikation war klar und professionell, und alles funktionierte einwandfrei.",
+          "id": "69187dc2dbb13f54b405c914"
+        },
+        {
+          "authorName": "Thomas Becker",
+          "authorPosition": "Facility Manager",
+          "authorLocation": "Hamburg",
+          "quoteHeading": "Zuverlässiger Partner für komplexe Industrieprojekte.",
+          "quoteText": "Wir haben Quantum Elektro für ein umfassendes Upgrade unserer Produktionsanlage engagiert. Das Team lieferte pünktlich, professionell und mit hoher Präzision – ein echter Unterschied in Qualität und Effizienz.",
+          "id": "69187dc2dbb13f54b405c915"
+        },
+        {
+          "authorName": "Sophie Lang",
+          "authorPosition": "Hausbesitzer",
+          "authorLocation": "Stuttgart",
+          "quoteHeading": "Kompetent und kundenorientiert – genau, was wir gesucht haben.",
+          "quoteText": "Von der Beratung bis zur Installation unserer neuen Smart-Home-Anlage war alles perfekt organisiert. Quantum Elektro hat unsere Erwartungen übertroffen und alles nachhaltig umgesetzt.",
+          "id": "69187dc2dbb13f54b405c916"
+        }
+      ]
+    },
+    "id": "69008574f667d95022da8936"
+  },
+  "timestamp": "2026-02-15T16:03:44.119Z"
+}

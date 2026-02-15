@@ -1,0 +1,206 @@
+{
+  "data": {
+    "createdAt": "2025-11-25T21:56:14.024Z",
+    "updatedAt": "2026-02-05T16:00:50.812Z",
+    "globalType": "shared-section",
+    "ctaSection": {
+      "sectionSubtitle": "Ready to accelerate your growth?",
+      "sectionTitle": "Your gateway to digital growth",
+      "sectionDescription": "Discover how our team helps ambitious brands turn strategy into growth. Let’s build your next success story."
+    },
+    "logos": {
+      "light": "697e5fe606a404383ea4020c",
+      "dark": "697e5fe306a404383ea401fd",
+      "lightFull": "697e5fe506a404383ea40207",
+      "darkFull": "697e5fe406a404383ea40202"
+    },
+    "logoCarousel": {
+      "logos": [
+        {
+          "image": "697e5fdb06a404383ea401d0",
+          "id": "697e603b7afb549494546f69"
+        },
+        {
+          "image": "697e5fdc06a404383ea401d5",
+          "id": "697e603b7afb549494546f6a"
+        },
+        {
+          "image": "697e5fdd06a404383ea401da",
+          "id": "697e603b7afb549494546f6b"
+        },
+        {
+          "image": "697e5fde06a404383ea401df",
+          "id": "697e603b7afb549494546f6c"
+        },
+        {
+          "image": "697e5fdf06a404383ea401e4",
+          "id": "697e603b7afb549494546f6d"
+        },
+        {
+          "image": "697e5fdf06a404383ea401e9",
+          "id": "697e603b7afb549494546f6e"
+        },
+        {
+          "image": "697e5fe006a404383ea401ee",
+          "id": "697e603b7afb549494546f6f"
+        },
+        {
+          "image": "697e5fe106a404383ea401f3",
+          "id": "697e603b7afb549494546f70"
+        }
+      ]
+    },
+    "newsletterSubscription": {
+      "enabled": true,
+      "sectionTitle": "Get Fresh Search Insights Delivered Straight To Your Inbox"
+    },
+    "socialMedia": {
+      "enabled": true,
+      "instagramHref": "https://www.instagram.com/perfometrics",
+      "linkedinHref": "https://www.linkedin.com/company/perfometrics",
+      "facebookHref": "https://www.facebook.com/perfometrics",
+      "xTwitterHref": "https://x.com/perfometricsco"
+    },
+    "gtm": {
+      "enabled": true
+    },
+    "collectionBackgrounds": {
+      "serviceBackgroundDetail": "697e5fd806a404383ea401c1",
+      "serviceFeatureBackground": "697e5fd806a404383ea401bc",
+      "articlesBackgroundListing": "697e5fd706a404383ea401b7",
+      "articleBackgroundDetail": "697e5fd706a404383ea401b7"
+    },
+    "globalUIText": {
+      "ctaButtons": {
+        "contact": {
+          "text": "Get Started"
+        },
+        "services": {
+          "text": "Explore Services"
+        },
+        "articles": {
+          "text": "View all Articles"
+        }
+      },
+      "prompts": {
+        "scrollPrompt": "Scroll down to explore",
+        "filterByCategory": "Filter by Category",
+        "exploreArticles": "Explore Articles",
+        "readArticle": "Read Article",
+        "newsletter": "Subscribe",
+        "failedTo": "Failed to",
+        "successfully": "Successfully",
+        "success": "Success",
+        "error": "Error",
+        "done": "Done",
+        "tryAgain": "Try Again",
+        "or": "or",
+        "backTo": "Back to",
+        "next": "Next",
+        "contact": {
+          "submitInfo": "Submit Details",
+          "BookConsultation": "Book Consultation",
+          "submitInfoLong": "Submit your information and we'll get back to you shortly.",
+          "BookConsultationLong": "Book a Consultation with one of Our Growth Experts"
+        },
+        "consentDataprotection": {
+          "mainText": "I have read and accept the",
+          "text": "data protection"
+        }
+      },
+      "labels": {
+        "service": {
+          "price": "Price",
+          "starter": "Starter",
+          "standard": "Standard",
+          "enterprise": "Enterprise"
+        }
+      },
+      "formFields": {
+        "email": {
+          "name": "email",
+          "label": "Email",
+          "placeholder": "Enter your email"
+        },
+        "data_protection": {
+          "name": "data_protection"
+        }
+      },
+      "errorLogs": {
+        "requiredField": "This field is required",
+        "invalidEmail": "Ungültiges E-Mail-Format. Beispiel: name@beispiel.de",
+        "invalidPhone": "Invalid phone number. Use at least 7 digits and only numbers, spaces, or + - ( )"
+      },
+      "subTitles": {
+        "service": {
+          "features": "Features"
+        },
+        "article": {
+          "preview": "Articles",
+          "listing": {
+            "hero": "Articles"
+          }
+        },
+        "expertise": {
+          "methodology": "Methodology",
+          "benefits": "Benefits"
+        },
+        "about": {
+          "identityWho": "Who we are",
+          "identityWhat": "What we do",
+          "identityHow": "How we do it"
+        }
+      },
+      "titles": {
+        "article": {
+          "preview": "Latest Insights From the Perfometrics Team",
+          "listing": {
+            "hero": "Explore the latest Insights",
+            "partial": "New Releases",
+            "full": "Browse all articles"
+          },
+          "details": {
+            "relatedArticles": "Related Articles",
+            "inThisArticle": "In This Article"
+          }
+        },
+        "service": {
+          "crossSellstart": "If this Isn’t the Right Fit Yet",
+          "crossSellend": "Might Fit Your Needs",
+          "pricing": "Pricing"
+        },
+        "expertise": {
+          "benefitsPartial": "Why Choose Us?",
+          "benefitsFull": "What Working With Us Really Looks Like",
+          "deepDiveBefore": "Before",
+          "deepDiveAfter": "After",
+          "methodology": "From vision to implementation – our process made easy"
+        }
+      },
+      "descriptions": {
+        "article": {
+          "listing": {
+            "hero": "From analytics to automation, our team unpacks the data behind performance. Discover perspectives that power tomorrow’s digital leaders."
+          }
+        }
+      },
+      "metadata": {
+        "article": {
+          "listing": {
+            "image": "697e5fc006a404383ea4013f",
+            "title": "Blog",
+            "description": "Read blog posts by Perfometrics"
+          }
+        }
+      }
+    },
+    "ctaSectionSticky": {
+      "sectionTitle": "Speak with an Expert",
+      "expertName": "Andrej Zafirov",
+      "expertContact": "(406) 821-3779",
+      "revealDelay": 0
+    },
+    "id": "692625fea47ab76b39d64833"
+  },
+  "timestamp": "2026-02-15T16:03:39.388Z"
+}

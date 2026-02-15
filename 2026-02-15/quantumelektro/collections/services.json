@@ -1,0 +1,303 @@
+{
+  "data": {
+    "docs": [
+      {
+        "createdAt": "2025-11-15T13:18:48.227Z",
+        "updatedAt": "2025-11-15T13:18:48.227Z",
+        "slug": "nachhaltige-elektro-upgrades",
+        "hero": {
+          "sectionTitle": "Nachhaltige Elektro-Upgrades",
+          "sectionDescription": "Modernisieren Sie Ihre Anlagen mit Energieeffizienz und Umweltbewusstsein",
+          "heroImage": "69187da173c6fbd4dbf07786"
+        },
+        "benefits": {
+          "sectionTitle": "Ihre Vorteile nachhaltiger Elektroinstallationen",
+          "sectionDescription": "Wir helfen Ihnen, Stromverbrauch zu reduzieren, erneuerbare Energien zu integrieren und Ihr Gebäude zukunftssicher zu machen.",
+          "sectionImage": "69187d9f73c6fbd4dbf07781",
+          "benefitsInfoList": [
+            {
+              "sectionTitle": "Reduzierte Energiekosten",
+              "sectionDescription": "Senken Sie langfristig Ihre Stromrechnung durch effiziente Technologien.",
+              "icon": "Wallet",
+              "id": "69187db8dbb13f54b405c8ee"
+            },
+            {
+              "sectionTitle": "Ökologischer Fußabdruck",
+              "sectionDescription": "Verwenden Sie umweltfreundliche Lösungen, die den CO2-Ausstoß reduzieren.",
+              "icon": "Leaf",
+              "id": "69187db8dbb13f54b405c8ef"
+            },
+            {
+              "sectionTitle": "Fördermöglichkeiten nutzen",
+              "sectionDescription": "Wir unterstützen Sie bei Förderprogrammen für nachhaltige Energieprojekte.",
+              "icon": "FileBadge",
+              "id": "69187db8dbb13f54b405c8f0"
+            }
+          ]
+        },
+        "features": {
+          "sectionTitle": "Unsere nachhaltigen Upgrade-Lösungen",
+          "featureInfoCards": [
+            {
+              "sectionTitle": "LED-Beleuchtungssysteme",
+              "sectionDescription": "Energieeffiziente LED-Systeme für alle Innen- und Außenbereiche.",
+              "icon": "Lightbulb",
+              "id": "69187db8dbb13f54b405c8f1"
+            },
+            {
+              "sectionTitle": "Photovoltaik & Batteriespeicher",
+              "sectionDescription": "Integration von Solarenergie und Speicherlösungen für Eigenverbrauch.",
+              "icon": "PlugZap",
+              "id": "69187db8dbb13f54b405c8f2"
+            },
+            {
+              "sectionTitle": "Smart Home / Gebäudeautomation",
+              "sectionDescription": "Automatisierte Steuerung für Licht, Klima und Energieverbrauch.",
+              "icon": "Cpu",
+              "id": "69187db8dbb13f54b405c8f3"
+            },
+            {
+              "sectionTitle": "Energieüberwachungssysteme",
+              "sectionDescription": "Kontinuierliche Analyse Ihres Stromverbrauchs zur Optimierung.",
+              "icon": "BarChart3",
+              "id": "69187db8dbb13f54b405c8f4"
+            },
+            {
+              "sectionTitle": "Modernisierung alter Anlagen",
+              "sectionDescription": "Austausch ineffizienter Systeme gegen nachhaltige Lösungen.",
+              "icon": "Wrench",
+              "id": "69187db8dbb13f54b405c8f5"
+            }
+          ]
+        },
+        "faq": {
+          "sectionTitle": "Häufig gestellte Fragen",
+          "sectionDescription": "Antworten zu nachhaltigen Elektro-Upgrades für Ihr Zuhause oder Unternehmen.",
+          "faqList": [
+            {
+              "question": "Kann ich meine bestehenden Anlagen modernisieren?",
+              "answer": "Ja, wir prüfen vorhandene Systeme und implementieren nachhaltige Upgrades.",
+              "id": "69187db8dbb13f54b405c8f6"
+            },
+            {
+              "question": "Welche Fördermittel kann ich beantragen?",
+              "answer": "Es gibt diverse staatliche Förderungen für Energieeffizienz, wir beraten Sie gerne zu passenden Programmen.",
+              "id": "69187db8dbb13f54b405c8f7"
+            },
+            {
+              "question": "Wie schnell amortisieren sich nachhaltige Investitionen?",
+              "answer": "Durch reduzierte Energiekosten und Fördermittel amortisieren sich viele Upgrades innerhalb weniger Jahre.",
+              "id": "69187db8dbb13f54b405c8f8"
+            }
+          ]
+        },
+        "id": "69187db8cff6e1d31d21e569"
+      },
+      {
+        "createdAt": "2025-11-15T13:18:46.755Z",
+        "updatedAt": "2025-11-15T13:18:46.755Z",
+        "slug": "elektroinstallationen-kommerzielle-loesungen",
+        "hero": {
+          "sectionTitle": "Elektroinstallationen für gewerbliche Gebäude",
+          "sectionDescription": "Effiziente, sichere und maßgeschneiderte Lösungen für Ihr Unternehmen",
+          "heroImage": "69187d9d73c6fbd4dbf0777c"
+        },
+        "benefits": {
+          "sectionTitle": "Warum uns wählen",
+          "sectionDescription": "Unsere Elektroinstallationen für gewerbliche Gebäude sorgen für zuverlässige Stromversorgung, Energieeinsparung und maximale Sicherheit für Ihr Unternehmen.",
+          "sectionImage": "69187d9a73c6fbd4dbf07777",
+          "benefitsInfoList": [
+            {
+              "sectionTitle": "Maximale Betriebssicherheit",
+              "sectionDescription": "Vermeiden Sie Ausfälle und Produktionsunterbrechungen durch professionelle Elektroinstallationen.",
+              "icon": "ShieldAlert",
+              "id": "69187db6dbb13f54b405c8e3"
+            },
+            {
+              "sectionTitle": "Energieeffizienz",
+              "sectionDescription": "Optimieren Sie Energiekosten durch moderne, nachhaltige Elektroanlagen.",
+              "icon": "BatteryCharging",
+              "id": "69187db6dbb13f54b405c8e4"
+            },
+            {
+              "sectionTitle": "Skalierbare Lösungen",
+              "sectionDescription": "Unsere Systeme wachsen mit Ihrem Unternehmen und passen sich neuen Anforderungen an.",
+              "icon": "Layers",
+              "id": "69187db6dbb13f54b405c8e5"
+            }
+          ]
+        },
+        "features": {
+          "sectionTitle": "Unsere Leistungen für Gewerbe",
+          "featureInfoCards": [
+            {
+              "sectionTitle": "Komplette Verkabelung und Neuverkabelung",
+              "sectionDescription": "Wir installieren komplette Stromsysteme für Bürogebäude, Fabriken oder Verkaufsflächen.",
+              "icon": "Cable",
+              "id": "69187db6dbb13f54b405c8e6"
+            },
+            {
+              "sectionTitle": "Beleuchtungslösungen für Arbeitsplätze",
+              "sectionDescription": "Individuelle Beleuchtungssysteme für Produktivität, Komfort und Energieeinsparung.",
+              "icon": "Lightbulb",
+              "id": "69187db6dbb13f54b405c8e7"
+            },
+            {
+              "sectionTitle": "Sicherheits- und Notfallsysteme",
+              "sectionDescription": "Installation von Notbeleuchtung, Brandschutz- und Sicherheitsanlagen.",
+              "icon": "AlarmCheck",
+              "id": "69187db6dbb13f54b405c8e8"
+            },
+            {
+              "sectionTitle": "Netzwerkinfrastruktur",
+              "sectionDescription": "Professionelle Installation von Netzwerkkabeln und IT-Systemen.",
+              "icon": "Server",
+              "id": "69187db6dbb13f54b405c8e9"
+            },
+            {
+              "sectionTitle": "Elektrische Aufrüstung & Wartung",
+              "sectionDescription": "Langfristige Zuverlässigkeit durch Wartungsverträge und Modernisierungen.",
+              "icon": "Wrench",
+              "id": "69187db6dbb13f54b405c8ea"
+            }
+          ]
+        },
+        "faq": {
+          "sectionTitle": "Häufig gestellte Fragen",
+          "sectionDescription": "Hier beantworten wir häufige Fragen zu unseren gewerblichen Elektroinstallationen.",
+          "faqList": [
+            {
+              "question": "Wie lange dauert eine Installation in einem Bürogebäude?",
+              "answer": "Die Dauer hängt von Größe und Umfang ab. Ein kleineres Büro kann innerhalb weniger Tage fertiggestellt werden, größere Projekte mehrere Wochen.",
+              "id": "69187db6dbb13f54b405c8eb"
+            },
+            {
+              "question": "Bieten Sie Energieaudit-Services an?",
+              "answer": "Ja, wir analysieren den Energieverbrauch und empfehlen effiziente Lösungen, um Kosten zu senken.",
+              "id": "69187db6dbb13f54b405c8ec"
+            },
+            {
+              "question": "Können Sie auch außerhalb der normalen Arbeitszeiten arbeiten?",
+              "answer": "Ja, wir passen unsere Installationen an Ihre Geschäftszeiten an, um Störungen zu minimieren.",
+              "id": "69187db6dbb13f54b405c8ed"
+            }
+          ]
+        },
+        "id": "69187db6cff6e1d31d21e55d"
+      },
+      {
+        "createdAt": "2025-11-15T13:18:45.255Z",
+        "updatedAt": "2025-11-15T13:18:45.255Z",
+        "slug": "elektroinstallationen-in-wohngebaeuden",
+        "hero": {
+          "sectionTitle": "Elektroinstallationen in Wohngebäuden",
+          "sectionDescription": "Sichere, effiziente und moderne Elektrolösungen, die auf Ihr Zuhause zugeschnitten sind",
+          "heroImage": "69187da673c6fbd4dbf07790"
+        },
+        "benefits": {
+          "sectionTitle": "Entscheiden Sie sich für uns",
+          "sectionDescription": "Von alltäglichem Komfort bis hin zu zukunftssicherer Effizienz – unsere Elektroinstallationslösungen für Wohngebäude sind darauf ausgelegt, Ihr Zuhause sicherer, intelligenter und nachhaltiger zu machen.",
+          "sectionImage": "69187da473c6fbd4dbf0778b",
+          "benefitsInfoList": [
+            {
+              "sectionTitle": "Energieeffizienz",
+              "sectionDescription": "Senken Sie Ihre Energiekosten mit modernen, umweltfreundlichen Anlagen, die den Verbrauch senken, ohne dabei den Komfort zu beeinträchtigen.",
+              "icon": "BatteryCharging",
+              "id": "69187db5dbb13f54b405c8d6"
+            },
+            {
+              "sectionTitle": "Smart Home-fähig",
+              "sectionDescription": "Machen Sie Ihre Immobilie zukunftssicher mit intelligenten Systemen, die Beleuchtung, Heizung und Sicherheit zu einem nahtlosen Erlebnis verbinden.",
+              "icon": "HousePlug",
+              "id": "69187db5dbb13f54b405c8d7"
+            },
+            {
+              "sectionTitle": "Sichere und zuverlässige Stromversorgung",
+              "sectionDescription": "Unsere zertifizierten Elektriker sorgen dafür, dass jede Installation den höchsten Sicherheitsstandards entspricht, sodass Sie sich um Ihre Familie keine Sorgen machen müssen.",
+              "icon": "ShieldCheck",
+              "id": "69187db5dbb13f54b405c8d8"
+            }
+          ]
+        },
+        "features": {
+          "sectionTitle": "Was ist in unseren Installationen für Privathaushalte enthalten?",
+          "featureInfoCards": [
+            {
+              "sectionTitle": "Komplette Verkabelung und Neuverkabelung",
+              "sectionDescription": "Von Neubauten bis hin zu Renovierungen übernehmen wir die komplette Verkabelung mit Präzision.",
+              "icon": "Cable",
+              "id": "69187db5dbb13f54b405c8d9"
+            },
+            {
+              "sectionTitle": "Lichtdesign und Installation",
+              "sectionDescription": "Wir entwickeln maßgeschneiderte Beleuchtungslösungen, die Funktionalität und Atmosphäre miteinander verbinden.",
+              "icon": "Lightbulb",
+              "id": "69187db5dbb13f54b405c8da"
+            },
+            {
+              "sectionTitle": "Sicherungskasten und Sicherheitssysteme",
+              "sectionDescription": "Moderne Sicherungskästen, Überspannungsschutz und Sicherheitsschalter zum Schutz Ihres Zuhauses und Ihrer Geräte",
+              "icon": "CircuitBoard",
+              "id": "69187db5dbb13f54b405c8db"
+            },
+            {
+              "sectionTitle": "Smart Home Integration",
+              "sectionDescription": "We connect smart switches, thermostats, and security systems so your home runs efficiently",
+              "icon": "Wifi",
+              "id": "69187db5dbb13f54b405c8dc"
+            },
+            {
+              "sectionTitle": "Außen- und Gartenbeleuchtung",
+              "sectionDescription": "Von Terrassen bis zu Wegen – wir entwerfen und installieren sichere, wetterfeste Außenbeleuchtung.",
+              "icon": "Sun",
+              "id": "69187db5dbb13f54b405c8dd"
+            },
+            {
+              "sectionTitle": "Anschlüsse für Geräte und Ausrüstung",
+              "sectionDescription": "Sichere und professionelle Installation von großen Haushaltsgeräten – von Küchen bis hin zu Heimbüros.",
+              "icon": "Plug",
+              "id": "69187db5dbb13f54b405c8de"
+            }
+          ]
+        },
+        "faq": {
+          "sectionTitle": "Häufig gestellte Fragen",
+          "sectionDescription": "Wir wissen, dass Elektroprojekte komplex erscheinen können. Hier finden Sie Antworten auf häufig gestellte Fragen zu unseren Installationsdienstleistungen für Privathaushalte.",
+          "faqList": [
+            {
+              "question": "Wie lange dauert eine typische Elektroinstallation in einem Wohngebäude?",
+              "answer": "Die Dauer variiert je nach Projektumfang. Kleinere Installationen können in wenigen Stunden abgeschlossen sein, während umfassendere Renovierungen oder Neubauten mehrere Tage in Anspruch nehmen können. Wir geben Ihnen vor Beginn der Arbeiten eine genaue Zeitschätzung.",
+              "id": "69187db5dbb13f54b405c8df"
+            },
+            {
+              "question": "Sind Ihre Elektriker zertifiziert und versichert?",
+              "answer": "Ja, alle unsere Elektriker sind vollständig zertifiziert, lizenziert und versichert. Wir legen großen Wert auf Sicherheit und Qualität in jedem Projekt, das wir übernehmen.",
+              "id": "69187db5dbb13f54b405c8e0"
+            },
+            {
+              "question": "Bieten Sie Notfalldienste für Elektroprobleme an?",
+              "answer": "Ja, wir bieten Notfalldienste für dringende Elektroprobleme an. Kontaktieren Sie uns jederzeit, und wir werden so schnell wie möglich reagieren, um Ihre Sicherheit zu gewährleisten.",
+              "id": "69187db5dbb13f54b405c8e1"
+            },
+            {
+              "question": "Wie kann ich die Energieeffizienz meines Hauses verbessern?",
+              "answer": "Wir können Ihnen helfen, energieeffiziente Beleuchtung, intelligente Thermostate und andere Technologien zu integrieren, die den Energieverbrauch senken und Ihre Stromrechnung reduzieren.",
+              "id": "69187db5dbb13f54b405c8e2"
+            }
+          ]
+        },
+        "id": "69187db5cff6e1d31d21e547"
+      }
+    ],
+    "totalDocs": 3,
+    "limit": 10,
+    "totalPages": 1,
+    "page": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  },
+  "timestamp": "2026-02-15T16:03:43.460Z"
+}
