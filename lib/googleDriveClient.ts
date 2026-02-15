@@ -2,7 +2,7 @@ import fs from "fs/promises";
 import path from "path";
 import { getDriveClient } from "./OAuth2client"; // adjust path
 
-const parentFolderId = "1UsanPg2N0ftRTEXzwWkLJRhQ1dTUPVLz";
+const parentFolderId = process.env.PARENT_FOLDER_ID;
 
 let drive: any = undefined;
 
@@ -70,7 +70,7 @@ async function ensureDriveFolder(folderName: string, parentId: string): Promise<
 async function ensureDrivePath(filePath: string): Promise<string> {
   const parts = filePath.split("/"); // e.g., client/collections/slug.json
   parts.pop(); // remove filename
-  let currentParent = parentFolderId;
+  let currentParent = parentFolderId!;
 
   for (const part of parts) {
     currentParent = await ensureDriveFolder(part, currentParent);
